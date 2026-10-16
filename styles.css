@@ -1,4 +1,4 @@
-div {
+.naranja {
   height: 100px;
   width: 500px;
   
@@ -8,7 +8,7 @@ img {
   height: 400px;
   width: 500px;
 }
-table, th, td {
+.cafe, th, td {
     background-color: rgb(223, 205, 128);
   border: 1px solid black;
 }
