@@ -1,0 +1,23 @@
+div {
+  height: 100px;
+  width: 500px;
+  
+  margin:auto;
+}
+img {
+  height: 400px;
+  width: 500px;
+}
+table, th, td {
+    background-color: rgb(223, 205, 128);
+  border: 1px solid black;
+}
+.titulo {
+    height: 98px;
+    width: 498px;
+    margin:auto;
+    font-family: "Times New Roman", Times, serif;
+}
+body {
+    background-color: rgb(255, 236, 127);
+}
